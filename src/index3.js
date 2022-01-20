@@ -32,6 +32,9 @@ const fetchBreeds = () => {
         let breedsList = Object.keys(jsonObject.message)
 
         updateBreedsList(breedsList)
+
+        let breedDropdown = document.querySelector()
+        
     })
 }
 
